@@ -1,5 +1,5 @@
 # OOD-Co-Act
 This repository contains methods for ood detection in segmentation.
 
-Home of the Co-Act method 
+Home of the Co-Act method \n
 Also contain an implementation of LINe: leveraging important neurons
